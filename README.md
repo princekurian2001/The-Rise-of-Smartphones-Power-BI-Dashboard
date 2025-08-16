@@ -1,7 +1,10 @@
 # The-Rise-of-Smartphones-Power-BI-Dashboard
 I explored how smartphones have evolved over the years with screen size, weight, RAM, storage, battery, and pricing trends across multiple countries  (China, India, Dubai, Pakistan, USA, Finland, Japan, South Korea).
 
+
 📄 Page 1
+
+
 📊 Cards / KPIs
 
 📐 Avg_screen_size_inch
@@ -32,7 +35,11 @@ I explored how smartphones have evolved over the years with screen size, weight,
 
 📊 Horizontal Bar Chart – Top 8 company Avg Battery capacity
 
+
+
 📄 Page 2
+
+
 📊 Cards / KPIs
 
 📱 Model_count
@@ -65,7 +72,11 @@ I explored how smartphones have evolved over the years with screen size, weight,
 
 📌 Side Panel – 🏷️ Company logos
 
+
+
 📄 Page 3
+
+
 📊 Cards / KPI Tiles
 
 💵 Avg_price_USA – 615 (light lavender background)
